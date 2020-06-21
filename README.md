@@ -1,7 +1,8 @@
-# feature
+# 特点/feature
 
-auto night mode support
+Except origin function, add auto night mode support
 
-# source
+# 来源/source
 
-@github imaegoo
+Thanks to @Github imaegoo
+仅将夜间模式整合入icarus原有部分
